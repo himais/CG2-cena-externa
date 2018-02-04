@@ -1,12 +1,9 @@
 /*
 --------------------------------------------------------------------------------------
 PROJETO 2 - B1CG2
-Cena Externa
-       
-Nome: Maíra Satiko Tabata
-Prontuário: 1561545               
+Cena Externa             
 
-- Versão do Pov-Ray: v3.7
+- VersÄƒo do Pov-Ray: v3.7
 --------------------------------------------------------------------------------------
 */
 
@@ -93,7 +90,7 @@ plane {
   
 //-------------------------------------------------------------------------------------// 
 
-//base dos prédios 
+//base dos prÃ©dios 
 box {
         <0, 0, -8>,
         <5, 1.5, 15>
@@ -141,7 +138,7 @@ box {
 } 
  
                 
-//prédios esquerda
+//prÃ©dios esquerda
 union{ 
         object{ predio1 scale y*0.9 translate<-5.5,0,-4>}   
         object{ predio3 scale y*0.9 translate<-0.5,0,-4>}
@@ -152,7 +149,7 @@ union{
         translate<-8,1.5,0>
 } 
 
-//prédios do fundo
+//prÃ©dios do fundo
 object{ predio4 scale y*0.9 translate<-1,1.5,10>} 
 object{ predio4 scale y*0.9 translate<6.5,1.5,13>} 
 
