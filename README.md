@@ -29,7 +29,7 @@ Segue abaixo alguns dos recursos vistos em aula. Não é obrigatório o uso de t
  - Transformações do objeto: translação, rotação e escala
  - Modelagem GSC: união, intersecção, diferença e merge
  - Varredura rotacional e extrusão
- - Textura: 
+ - Textura
  - Cores para objetos
  - Padrões prontos (madeira, vidro, pedras, céu, outros...)
  - Perturbações na superfície do objeto
