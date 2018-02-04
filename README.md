@@ -41,7 +41,7 @@ Segue abaixo alguns dos recursos vistos em aula. Não é obrigatório o uso de t
 
 ## Tecnologias
 
-- Pov-Ray
+- Pov-Ray: v3.7
 
 ## Resultado Final
 ![Imagem final](https://github.com/himais/Projeto-2---Ma-ra-Satiko-Tabata-1561545/blob/master/Resultado%20Final.png?raw=true)
