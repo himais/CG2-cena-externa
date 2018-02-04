@@ -30,13 +30,13 @@ Segue abaixo alguns dos recursos vistos em aula. Não é obrigatório o uso de t
  - Modelagem GSC: união, intersecção, diferença e merge
  - Varredura rotacional e extrusão
  - Textura: 
- -- Cores para objetos
- --Padrões prontos (madeira, vidro, pedras, céu, outros...)
- --Perturbações na superfície do objeto
+ - Cores para objetos
+ - Padrões prontos (madeira, vidro, pedras, céu, outros...)
+ - Perturbações na superfície do objeto
  - Acabamento da superfície
- -- Modelos de iluminação (ambiente, difusa, especular)
- -- Reflexo
- -- Refração
+ - Modelos de iluminação (ambiente, difusa, especular)
+ - Reflexo
+ - Refração
  - Varredura
 
 ## Tecnologias
